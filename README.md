@@ -13,3 +13,9 @@ int A = 20; nilai awal a adalah 20
    printf("Data SETELAH proses pertukaran\n");   setelah proses pertukaran
    printf("B=%d, A=%d\n\n\n", A, B);      Nilai B=20, dan A=20
 telah dipertukarkan (swapped).
+
+b. fungsi perkalian 2 buah bilangan bulat dengan menggunakan
+operator penjumahan. (gunakan passing parameter by value)
+Misal : 4 x 5
+maka penghitungan akan dilakukan seperti berikut : 4+4+4+4+4
+yaitu 4 akan ditambahkan dengan 4 sebanyak 5 kali
